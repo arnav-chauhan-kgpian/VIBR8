@@ -1,4 +1,4 @@
-# 🎯 Flickd AI Hackathon Submission
+# 🎯 VIBR8 - Flickd AI Hackathon Submission
 
 **Smart Tagging & Vibe Classification Engine (Backend MVP)**
 
